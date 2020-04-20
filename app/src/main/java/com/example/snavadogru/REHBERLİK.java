@@ -58,11 +58,7 @@ public class REHBERLİK extends AppCompatActivity {
         adapter = new HaberAdapter(this,personArrayList);
 
         rv.setAdapter(adapter);
-
-
-
     }
-
 
     private void getHaberfromXml(String UrlString){
 
@@ -70,12 +66,11 @@ public class REHBERLİK extends AppCompatActivity {
 
             URL url = new URL(UrlString);
             DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
-           DocumentBuilder dBuilder = dFactory.newDocumentBuilder();
+            DocumentBuilder dBuilder = dFactory.newDocumentBuilder();
 
             Document document =  dBuilder.parse(new InputSource(url.openStream()));
             document.getDocumentElement().normalize();
-           NodeList nodeList = document.getElementsByTagName("item");
-
+            NodeList nodeList = document.getElementsByTagName("item");
 
 
          for(int i=0;i<nodeList.getLength();i++){
@@ -97,7 +92,6 @@ public class REHBERLİK extends AppCompatActivity {
                 //link self-closing tag e sahip tag in attribute a ulaştım
                  Element elementItem = (Element) nodeLink.item(0);
                  String link = elementItem.getAttribute("href");
-
 
 
                 //image

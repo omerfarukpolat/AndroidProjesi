@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\12b6e40a951bad8daa58d7e43fc86082\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\2d67f970b81339ab59fbb2d37304154d\jetified-firebase-database-17.0.0\AndroidManifest.xml:15:1-36:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\ef47903584e132f95c08c23292cec68e\material-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -73,29 +73,29 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aspeh\.gradle\ca
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\28950d5ca212ff0c86ed1244329056eb\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\c415dd4bd4c16cdd124247a1b0a49ba2\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\114effc5acca2b147078a682a880deaa\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-64:12
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:5-66
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\2d67f970b81339ab59fbb2d37304154d\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\2d67f970b81339ab59fbb2d37304154d\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:5-67
 MERGED from [com.onesignal:OneSignal:3.11.2] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\a68f89559918fd1466d80aea6f42b5fb\jetified-OneSignal-3.11.2\AndroidManifest.xml:16:5-67
@@ -111,17 +111,17 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:5-80
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:22-77
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:22-77
 application
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:10:5-62:19
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:5-61:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\12b6e40a951bad8daa58d7e43fc86082\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\12b6e40a951bad8daa58d7e43fc86082\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\2d67f970b81339ab59fbb2d37304154d\jetified-firebase-database-17.0.0\AndroidManifest.xml:28:5-34:19
@@ -183,159 +183,159 @@ MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Us
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\f961a727fd6ff1bec6d760c391cc6822\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.snavadogru.KonuTakip.GelisimKonu
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:9-68
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:9-68
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:19-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:19-56
 activity#com.example.snavadogru.KonuTakip.aytKonu
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:9-55
+	android:name
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:19-52
+activity#com.example.snavadogru.KonuTakip.tytKonu
 ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:9-55
 	android:name
 		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:19-52
-activity#com.example.snavadogru.KonuTakip.tytKonu
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:9-55
-	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:19-52
 activity#com.example.snavadogru.Camera.CameraActivity
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:9-59
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:9-59
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:19-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:19-56
 activity#com.example.snavadogru.Camera.ShowPicturesActivity
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:9-65
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:9-65
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:19-62
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:19-62
 activity#com.example.snavadogru.Camera.ViewImage
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:9-54
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:9-54
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:19-51
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:19-51
 activity#com.example.snavadogru.KonuTakip.Konu_takip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:23:9-26:59
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:9-25:59
 	android:label
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:25:13-62
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:24:13-62
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:25:13-56
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:24:13-49
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:23:13-49
 activity#com.example.snavadogru.Camera.SORULAR
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:27:9-30:59
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:26:9-29:59
 	android:label
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:29:13-66
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:28:13-66
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:28:13-43
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:27:13-43
 activity#com.example.snavadogru.KENDÝNÝDENE
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:9-49
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:9-49
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:19-46
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:19-46
 activity#com.example.snavadogru.KonuTakip.Analiz
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:9-54
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:9-54
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:19-51
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:19-51
 activity#com.example.snavadogru.SoruTakip.SoruTakip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:33:9-57
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:9-57
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:33:19-54
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:19-54
 activity#com.example.snavadogru.SoruTakip.main.popUpAdding
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:9-36:68
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:34:9-35:68
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:13-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:19-61
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:34:19-61
 activity#com.example.snavadogru.SoruTakip.main.popUpDeleting
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:9-38:68
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:9-37:68
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:38:13-56
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:13-56
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:19-63
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:19-63
 activity#com.example.snavadogru.DenemeTakip.DenemeTakip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:9-60
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:39:9-60
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:19-58
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:39:19-58
 activity#com.example.snavadogru.DenemeTakip.denemetakipTYT_popUpDeleting
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:9-131
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:9-131
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:76-119
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:76-119
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:19-75
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:19-75
 activity#com.example.snavadogru.DenemeTakip.denemetakipTYT_popUpAdding
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:9-130
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:9-130
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:75-118
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:75-118
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:19-73
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:19-73
 activity#com.example.snavadogru.DenemeTakip.denemeTYTtakip
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:9-64
+	android:name
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:19-61
+activity#com.example.snavadogru.DenemeTakip.denemeSAYtakip
 ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:9-64
 	android:name
 		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:19-61
-activity#com.example.snavadogru.DenemeTakip.denemeSAYtakip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:9-64
-	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:19-61
 activity#com.example.snavadogru.DenemeTakip.denemetakipSAY_popUpadding
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:9-129
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:9-129
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:74-117
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:74-117
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:19-73
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:19-73
 activity#com.example.snavadogru.DenemeTakip.denemetakipSAY_popUpdeleting
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:9-132
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:9-132
 	android:theme
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:77-120
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:77-120
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:19-75
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:19-75
 activity#com.example.snavadogru.DenemeTakip.denemeEAtakip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:9-63
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:9-63
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:19-60
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:19-60
 activity#com.example.snavadogru.DenemeTakip.denemeSOZtakip
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:9-64
+	android:name
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:19-61
+activity#com.example.snavadogru.DenemeTakip.denemeDiltakip
 ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:9-64
 	android:name
 		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:19-61
-activity#com.example.snavadogru.DenemeTakip.denemeDiltakip
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:49:9-64
-	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:49:19-61
 activity#com.example.snavadogru.PUAN
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:9-42
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:50:9-42
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:19-39
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:50:19-39
 activity#com.example.snavadogru.REHBERLÝK
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:9-47
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:9-47
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:19-44
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:19-44
 activity#com.example.snavadogru.SSS
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:9-41
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:9-41
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:19-38
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:19-38
 activity#com.example.snavadogru.Options
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:9-45
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:9-45
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:19-42
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:19-42
 activity#com.example.snavadogru.FirstScreen.MainActivity
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:9-61:20
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:9-60:20
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:19-59
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:19-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:13-60:29
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:13-59:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:57:17-69
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:57:25-66
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:59:17-77
+ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:59:27-74
+		ADDED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:58:27-74
 uses-sdk
 INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml

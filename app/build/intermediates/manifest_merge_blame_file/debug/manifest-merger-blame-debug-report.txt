@@ -11,17 +11,17 @@
 9-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:5-65
-11-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:22-62
+11-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:5:22-62
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:5-66
-12-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:22-64
+12-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:5-66
+12-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:6:22-64
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:5-81
-13-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:22-78
+13-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:7:22-78
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:5-80
-14-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:22-77
+14-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:8:22-77
 15
 16    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 17    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -112,144 +112,144 @@
 53-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:22-107
 54
 55    <application
-55-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:10:5-62:19
+55-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:9:5-61:19
 56        android:allowBackup="true"
-56-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:11:9-35
+56-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:10:9-35
 57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 57-->[androidx.core:core:1.1.0] C:\Users\aspeh\.gradle\caches\transforms-2\files-2.1\f961a727fd6ff1bec6d760c391cc6822\core-1.1.0\AndroidManifest.xml:24:18-86
 58        android:debuggable="true"
 59        android:icon="@mipmap/ic_launcher"
-59-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:12:9-43
+59-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:11:9-43
 60        android:label="@string/app_name"
-60-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:13:9-41
+60-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:12:9-41
 61        android:roundIcon="@mipmap/ic_launcher_round"
-61-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:14:9-54
+61-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:13:9-54
 62        android:supportsRtl="true"
-62-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:15:9-35
+62-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:14:9-35
 63        android:testOnly="true"
 64        android:theme="@style/AppTheme" >
-64-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:9-40
+64-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:15:9-40
 65        <activity android:name="com.example.snavadogru.KonuTakip.GelisimKonu" />
-65-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:9-68
-65-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:19-56
+65-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:9-68
+65-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:16:19-56
 66        <activity android:name="com.example.snavadogru.KonuTakip.aytKonu" />
-66-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:9-55
-66-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:19-52
+66-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:9-55
+66-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:17:19-52
 67        <activity android:name="com.example.snavadogru.KonuTakip.tytKonu" />
-67-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:9-55
-67-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:19-52
+67-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:9-55
+67-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:18:19-52
 68        <activity android:name="com.example.snavadogru.Camera.CameraActivity" />
-68-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:9-59
-68-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:19-56
+68-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:9-59
+68-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:19:19-56
 69        <activity android:name="com.example.snavadogru.Camera.ShowPicturesActivity" />
-69-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:9-65
-69-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:19-62
+69-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:9-65
+69-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:20:19-62
 70        <activity android:name="com.example.snavadogru.Camera.ViewImage" />
-70-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:9-54
-70-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:19-51
+70-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:9-54
+70-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:21:19-51
 71        <activity
-71-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:23:9-26:59
+71-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:22:9-25:59
 72            android:name="com.example.snavadogru.KonuTakip.Konu_takip"
-72-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:24:13-49
+72-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:23:13-49
 73            android:label="@string/title_activity_konu_takip"
-73-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:25:13-62
+73-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:24:13-62
 74            android:theme="@style/AppTheme.NoActionBar" />
-74-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:26:13-56
+74-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:25:13-56
 75        <activity
-75-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:27:9-30:59
+75-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:26:9-29:59
 76            android:name="com.example.snavadogru.Camera.SORULAR"
-76-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:28:13-43
+76-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:27:13-43
 77            android:label="@string/title_activity_takip_alanlari"
-77-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:29:13-66
+77-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:28:13-66
 78            android:theme="@style/AppTheme.NoActionBar" />
-78-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:13-56
+78-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:29:13-56
 79        <activity android:name="com.example.snavadogru.KENDİNİDENE" />
-79-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:9-49
-79-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:19-46
+79-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:9-49
+79-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:30:19-46
 80        <activity android:name="com.example.snavadogru.KonuTakip.Analiz" />
-80-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:9-54
-80-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:19-51
+80-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:9-54
+80-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:31:19-51
 81        <activity android:name="com.example.snavadogru.SoruTakip.SoruTakip" />
-81-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:33:9-57
-81-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:33:19-54
+81-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:9-57
+81-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:32:19-54
 82        <activity
-82-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:9-36:68
+82-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:34:9-35:68
 83            android:name="com.example.snavadogru.SoruTakip.main.popUpAdding"
-83-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:19-61
+83-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:34:19-61
 84            android:theme="@style/AppTheme.CustomTheme" />
-84-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:13-56
+84-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:35:13-56
 85        <activity
-85-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:9-38:68
+85-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:9-37:68
 86            android:name="com.example.snavadogru.SoruTakip.main.popUpDeleting"
-86-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:19-63
+86-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:36:19-63
 87            android:theme="@style/AppTheme.CustomTheme" />
-87-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:38:13-56
+87-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:37:13-56
 88        <activity android:name="com.example.snavadogru.DenemeTakip.DenemeTakip" />
-88-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:9-60
-88-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:19-58
+88-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:39:9-60
+88-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:39:19-58
 89        <activity
-89-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:9-131
+89-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:9-131
 90            android:name="com.example.snavadogru.DenemeTakip.denemetakipTYT_popUpDeleting"
-90-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:19-75
+90-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:19-75
 91            android:theme="@style/AppTheme.CustomTheme" />
-91-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:76-119
+91-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:40:76-119
 92        <activity
-92-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:9-130
+92-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:9-130
 93            android:name="com.example.snavadogru.DenemeTakip.denemetakipTYT_popUpAdding"
-93-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:19-73
+93-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:19-73
 94            android:theme="@style/AppTheme.CustomTheme" />
-94-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:75-118
+94-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:41:75-118
 95        <activity android:name="com.example.snavadogru.DenemeTakip.denemeTYTtakip" />
-95-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:9-64
-95-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:19-61
+95-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:9-64
+95-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:42:19-61
 96        <activity android:name="com.example.snavadogru.DenemeTakip.denemeSAYtakip" />
-96-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:9-64
-96-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:19-61
+96-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:9-64
+96-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:43:19-61
 97        <activity
-97-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:9-129
+97-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:9-129
 98            android:name="com.example.snavadogru.DenemeTakip.denemetakipSAY_popUpadding"
-98-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:19-73
+98-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:19-73
 99            android:theme="@style/AppTheme.CustomTheme" />
-99-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:74-117
+99-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:44:74-117
 100        <activity
-100-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:9-132
+100-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:9-132
 101            android:name="com.example.snavadogru.DenemeTakip.denemetakipSAY_popUpdeleting"
-101-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:19-75
+101-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:19-75
 102            android:theme="@style/AppTheme.CustomTheme" />
-102-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:77-120
+102-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:45:77-120
 103        <activity android:name="com.example.snavadogru.DenemeTakip.denemeEAtakip" />
-103-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:9-63
-103-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:19-60
+103-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:9-63
+103-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:46:19-60
 104        <activity android:name="com.example.snavadogru.DenemeTakip.denemeSOZtakip" />
-104-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:9-64
-104-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:19-61
+104-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:9-64
+104-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:47:19-61
 105        <activity android:name="com.example.snavadogru.DenemeTakip.denemeDiltakip" />
-105-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:49:9-64
-105-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:49:19-61
+105-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:9-64
+105-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:48:19-61
 106        <activity android:name="com.example.snavadogru.PUAN" />
-106-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:9-42
-106-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:19-39
+106-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:50:9-42
+106-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:50:19-39
 107        <activity android:name="com.example.snavadogru.REHBERLİK" />
-107-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:9-47
-107-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:19-44
+107-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:9-47
+107-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:51:19-44
 108        <activity android:name="com.example.snavadogru.SSS" />
-108-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:9-41
-108-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:19-38
+108-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:9-41
+108-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:52:19-38
 109        <activity android:name="com.example.snavadogru.Options" />
-109-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:9-45
-109-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:19-42
+109-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:9-45
+109-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:53:19-42
 110        <activity android:name="com.example.snavadogru.FirstScreen.MainActivity" >
-110-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:9-61:20
-110-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:19-59
+110-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:9-60:20
+110-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:54:19-59
 111            <intent-filter>
-111-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:13-60:29
+111-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:55:13-59:29
 112                <action android:name="android.intent.action.MAIN" />
-112-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:57:17-69
-112-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:57:25-66
+112-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:17-69
+112-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:56:25-66
 113
 114                <category android:name="android.intent.category.LAUNCHER" />
-114-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:59:17-77
-114-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:59:27-74
+114-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:58:17-77
+114-->C:\Users\aspeh\Downloads\Compressed\AndroidProjesiMaster\app\src\main\AndroidManifest.xml:58:27-74
 115            </intent-filter>
 116        </activity>
 117
