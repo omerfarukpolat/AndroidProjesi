@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="410dp"
+        android:layout_height="636dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="-6dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+            <TextView
+                android:id="@+id/totalea"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="AYT EŞİT AĞIRLIK DENEMELERİ" />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/eaGraph"
+                android:layout_width="match_parent"
+                android:layout_height="250dp" />
+
+            <TextView
+                android:id="@+id/matText"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="Matematik" />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/matLineChart"
+                android:layout_width="match_parent"
+                android:layout_height="250dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+            <TextView
+                android:id="@+id/TDEText"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="Türk Dili ve Edebiyatı" />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/tdeGraph"
+                android:layout_width="match_parent"
+                android:layout_height="250dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+
+            <TextView
+                android:id="@+id/tarih"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="TARİH" />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/tarihGraph"
+                android:layout_width="match_parent"
+                android:layout_height="250dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+            <TextView
+                android:id="@+id/cografya"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="COĞRAFYA" />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/cografyaGraph"
+                android:layout_width="match_parent"
+                android:layout_height="250dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="103dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="629dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="-1dp"
+        android:orientation="vertical">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="70dp"
+            android:clickable="true"
+            app:srcCompat="@android:drawable/ic_menu_sort_by_size" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="0dp"
+            android:clickable="true"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

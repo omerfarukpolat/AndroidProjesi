@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.snavadogru">
+
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".KonuTakip.GelisimKonu"></activity>
+        <activity android:name=".KonuTakip.aytKonu" />
+        <activity android:name=".KonuTakip.tytKonu" />
+        <activity android:name=".Camera.CameraActivity" />
+        <activity android:name=".Camera.ShowPicturesActivity" />
+        <activity android:name=".Camera.ViewImage" />
+        <activity
+            android:name=".KonuTakip.Konu_takip"
+            android:label="@string/title_activity_konu_takip"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Camera.SORULAR"
+            android:label="@string/title_activity_takip_alanlari"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".KENDİNİDENE" />
+        <activity android:name=".KonuTakip.Analiz" />
+        <activity android:name=".SoruTakip.SoruTakip" />
+
+        <activity android:name=".SoruTakip.main.popUpAdding"
+            android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity android:name=".SoruTakip.main.popUpDeleting"
+            android:theme="@style/AppTheme.CustomTheme"></activity>
+
+        <activity android:name=".DenemeTakip.DenemeTakip"/>
+        <activity android:name=".DenemeTakip.denemetakipTYT_popUpDeleting" android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity android:name=".DenemeTakip.denemetakipTYT_popUpAdding"  android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity android:name=".DenemeTakip.denemeTYTtakip" />
+        <activity android:name=".DenemeTakip.denemeSAYtakip" />
+        <activity android:name=".DenemeTakip.denemetakipSAY_popUpadding" android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity android:name=".DenemeTakip.denemetakipSAY_popUpdeleting"  android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity android:name=".DenemeTakip.denemeEAtakip" />
+        <activity android:name=".DenemeTakip.denemeSOZtakip" />
+        <activity android:name=".DenemeTakip.denemeDiltakip" />
+
+        <activity android:name=".PUAN" />
+        <activity android:name=".REHBERLİK" />
+        <activity android:name=".SSS" />
+        <activity android:name=".Options" />
+        <activity android:name=".FirstScreen.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

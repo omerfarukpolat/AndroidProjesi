@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Options">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:background="@drawable/ic_launcher_background"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="TextView" />
+
+
+        <androidx.gridlayout.widget.GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+
+            app:columnCount="2"
+            app:rowCount="3"
+
+            >
+
+            <Button
+                android:id="@+id/Bsss"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="@string/sıksorulansorular" />
+
+            <Button
+                android:id="@+id/BCS"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="Çözüleyemen Sorular" />
+
+            <Button
+                android:id="@+id/BRehber"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="@string/rehberlik" />
+
+            <Button
+                android:id="@+id/BPuan"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="Puan" />
+
+            <Button
+                android:id="@+id/BKonuTakip"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="KONU TAKİP" />
+
+            <Button
+                android:id="@+id/BSoruTakip"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="SORU TAKİP" />
+            <Button
+                android:id="@+id/BDeneme_Takip"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="DENEME TAKİP" />
+            <Button
+                android:id="@+id/BKendi_kendine"
+                android:layout_width="200dp"
+                android:layout_height="87dp"
+
+                android:text="Kendini dene" />
+
+        </androidx.gridlayout.widget.GridLayout>
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
